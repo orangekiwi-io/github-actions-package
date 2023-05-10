@@ -1,6 +1,6 @@
 {
   "name": "@orangekiwi-io/github-actions-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.1.2"
   }
 }
